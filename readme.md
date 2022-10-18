@@ -148,7 +148,7 @@
 | :- | :-: | :-: | :-: |
 |[El coche fantástico](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/UAM%20-%20El%20coche%20fant%C3%A1stico%20-%20Episodio%201.pdf)|Easy|Linux|#web #waf #xor #RCE|
 -----
-## **Articles**
+## **Articulos**
 - [CTF: Aprende «hacking» jugando](https://www.sothis.tech/capture-the-flag-aprende-hacking-jugando/)
 - [Por el router muere el pez](https://www.sothis.tech/por-el-router-muere-el-pez/)
 - [Ciberataques físicos: cuando el peligro está en un USB](https://www.sothis.tech/sistemas-de-control-industrial/)
@@ -157,18 +157,7 @@
 - [GooFuzz: la herramienta para la enumeración de directorios y ficheros de forma pasiva](https://www.hackplayers.com/2022/06/goofuzz-tool-enum-pasiva.html)
 - [Company’s Recruitment Management System 1.0 - Remote Readable Administrator Credentials (Unauthenticated)](https://m3n0sd0n4ld.github.io/articles/Company-Recruitment-Management-System_1.0_Remote_Readable_Administrator_Credentials%20\(Unauthenticated\)/)
 -----
-## **Events & Conferences**
-- [Interview: Digitalización industrial en CCI (Centro de Ciberseguridad Industrial)](https://vimeo.com/431392473)
-- [Conference: Voz de la industria sobre la integración de Redes IT/OT - Ciberseguridad Industrial](https://t.co/dXTbGuI56n?amp=1)
-- [Conference: uDork - Google Hacking Tool - Hack&Beers Remake vol 5](https://t.co/ZlkglPYsvN?amp=1)
-- [Conference: uDork - Google Hacking Tool v2.0 - BitUP 2020](https://youtu.be/zzcUdmpo6ow)
-- [Conference: MailDay - Hackterriza como puedas - BitUP 2021](https://youtu.be/efpL9KAW3Fo?t=33410)
-- [Conference: IES Rafael Alberti (Cádiz) - IoT Pentesting - 2022](https://youtu.be/K1lTgYDF4lE)
-- [Conference: GooFuzz - Securiters Twitch- 2022](https://www.twitch.tv/videos/1517579986)
------
-## **About**
-David Utón is Penetration Tester and security auditor for web and mobiles applications, perimeter networks, internal and industrial corporate infrastructures, and wireless networks.
-#### **Contacted on:**
-![](Aspose.Words.b2257837-6c65-4b58-9515-5fef44f47e57.003.png) [David-Uton](https://www.linkedin.com/in/david-uton/) ![](Aspose.Words.b2257837-6c65-4b58-9515-5fef44f47e57.004.png) [@David_Uton](https://twitter.com/David_Uton)
+## **Eventos y conferencias**
 
-Published with [GitHub Pages](https://pages.github.com)
+## **Sobre mi**
+
